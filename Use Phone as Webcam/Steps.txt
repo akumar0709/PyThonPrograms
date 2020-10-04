@@ -1,0 +1,17 @@
+1. Download the app , Link Below 
+	https://play.google.com/store/apps/details?id=com.pas.webcam
+
+2. open app and Click Start Server in the end
+
+3. Video will get start in your phone
+
+4. To Connect with your Python Program copy the IP address shown on you phone and Paste in the following function
+	
+	cap = cv2.VideoCapture("http://{Your:IP:ADDRESS}/video")
+
+	(Make sure to include /video at the end)
+
+5. You can visit the URL to change your camera settings like switching between front and back.
+
+	Thank YOU !!!
+	If you Like this Just Leave a Comment . 
